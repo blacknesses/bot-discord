@@ -13,3 +13,4 @@ sintaxe: python3 script.py
 - server_tcp: ferramenta de recepção de conexão remota com o client, necessário NAT no router (PORTA fixa, qualquer IP funciona)
 
 - client_ssh: ferramenta de conexão ssh com servidor, necessário saber IP, USER, PASSWORD
+# bot-discord
